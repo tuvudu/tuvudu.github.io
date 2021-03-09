@@ -1,0 +1,1 @@
+./me-blog/build/service-worker.js
